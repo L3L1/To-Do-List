@@ -1,0 +1,33 @@
+body {
+	padding: 20px;
+	background-color: #abc;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+.removed-item {
+	text-decoration: line-through;
+}
+
+#app {
+	padding-bottom: 2em;
+	background-color: #fff;
+	border: none;
+	border-radius: .5em;
+}
+
+h1{
+	text-align: center;
+}
+
+._btn {
+	float: right;
+}
+
+li {
+	margin-top: 1.5em;
+}
+
